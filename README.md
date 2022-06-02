@@ -3,9 +3,9 @@
 
 
 # Links Uteis
-<p>
+
 [Sintaxe Basica MarkDown](https://www.markdownguide.org/basic-syntax/)
-<p>
+
 [Sintaxe Basica Git](http://git-scm.com/docs/git#_git_commands)
-<p>
+
 [Sintaxe Basica GitHub](https://docs.github.com/en)
