@@ -8,4 +8,4 @@
 
 [Sintaxe Basica Git](http://git-scm.com/docs/git#_git_commands)
 
-[Sintaxe Basica GitHub](https://docs.github.com/en)
+[GitHub Docs](https://docs.github.com/en)
